@@ -1,2 +1,1 @@
-# KBESLF
-Kızılova Bağımsız E-Spor Ligleri Federasyonu resmî Github deposu.
+# Kızılova Bağımsız E-Spor Ligleri Federasyonu Resmî Github Deposuna Hoş Geldiniz. Bu Depo Üzerinen Kızılova Bağımsız E-Spor Ligleri Federasyonu Resmî Android Uygulaması ve Kızılova Bağımsız E-Spor Ligleri Federasyonu Resmî İnternet Sitesind Göz Atabilir ve Depo Üzerinden Detaylı Bilgi Alabilirsiniz.

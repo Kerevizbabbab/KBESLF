@@ -1,1 +1,3 @@
-# Kızılova Bağımsız E-Spor Ligleri Federasyonu Resmî Github Deposuna Hoş Geldiniz. Bu Depo Üzerinen Kızılova Bağımsız E-Spor Ligleri Federasyonu Resmî Android Uygulaması ve Kızılova Bağımsız E-Spor Ligleri Federasyonu Resmî İnternet Sitesind Göz Atabilir ve Depo Üzerinden Detaylı Bilgi Alabilirsiniz.
+# ÇKTM Federasyonu Resmî GitHub Deposuna Hoş Geldiniz. Bu Depo Üzerinen ÇKTM Federasyonu Resmî Android Uygulamasını İndirebilir ve ÇKTM Federasyonu Resmî İnternet Sitesine Göz Atabilirsiniz.
+-
+ÇKTM Federasyonu Resmî İnternet Sitesi: https://sites.google.com/view/cktmf
